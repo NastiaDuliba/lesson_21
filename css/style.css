@@ -308,7 +308,7 @@ body._touch .menu__list > li._active {
   color: #ff3f3a;
   transition: all 0.3s ease 0s;
 }
-.header-article__title h1 {
+.header-article__title h2 {
   font-weight: 900;
   font-size: 2.875rem;
   line-height: 1.3;
@@ -653,3 +653,4 @@ body._touch .menu__list > li._active {
 
   transition: all 0.3s ease 0s;
 }
+
